@@ -1,6 +1,6 @@
 ### Hi there 👋, Feri Irawan
 #### Back-End Developer
-![Back-End Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--sHWXYAhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/![github](https://user-images.githubusercontent.com/61820040/114247199-ba197a80-99be-11eb-90f0-48bf2f3a0932.gif))
+![Back-End Developer](https://user-images.githubusercontent.com/61820040/114247739-14670b00-99c0-11eb-9115-8dd221ea46ac.gif)
 
 
 Skills: PHP / JS / HTML / CSS / PYHTON
