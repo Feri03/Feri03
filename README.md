@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Feri 👋
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64736c6e636a6a7a312f696d6167652f75706c6f61642f76313539343732343834312f73746f726167652f70726f66696c652d616e696d6174696f6e2e676966](https://user-images.githubusercontent.com/61820040/114243301-85092a00-99b6-11eb-91e3-5f9a0a7b2bbc.gif)
 
 <!--
 **Feri03/Feri03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
