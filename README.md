@@ -8,6 +8,7 @@ Skills: PHP / JS / HTML / CSS / PYHTON
 - 🔭 I’m currently working on this page. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feriirawan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **Feri03/Feri03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
