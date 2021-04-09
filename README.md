@@ -1,6 +1,6 @@
 ### Hi there 👋, Feri Irawan
 #### Back-End Developer
-![Back-End Developer](https://pbs.twimg.com/profile_banners/1146821485677305857/1617661778/600x200)
+![Back-End Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--sHWXYAhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9mtznxfpdeuq48ed1el8.gif)
 
 
 Skills: PHP / JS / HTML / CSS / PYHTON
