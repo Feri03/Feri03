@@ -3,9 +3,9 @@
 ![Back-End Developer](https://user-images.githubusercontent.com/61820040/114247739-14670b00-99c0-11eb-9115-8dd221ea46ac.gif)
 
 # Hi there 👋, Feri Irawan
-## Back-End Developer
+## BACK-END DEVELOPER
 
-## Skills and Experience
+## SKILLS AND EXPERIENCE
 * 💻 HTML, CSS, JS, PHP, PHYTON
 * 📱 React and Kotlin Fundamental
 
