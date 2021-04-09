@@ -10,7 +10,6 @@ Skills: PHP / JS / HTML / CSS / PYHTON
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feri03)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feri03&show_icons=true&theme=react)
 
-![github](https://user-images.githubusercontent.com/61820040/114247739-14670b00-99c0-11eb-9115-8dd221ea46ac.gif)
 
 
 <!--
