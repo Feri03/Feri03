@@ -1,4 +1,12 @@
-### Hi there, I'm Feri 👋
+### Hi there 👋, Feri Irawan
+#### Back-End Developer
+![Back-End Developer](https://pbs.twimg.com/profile_banners/1146821485677305857/1617661778/600x200)
+
+
+Skills: PHP / JS / HTML / CSS / PYHTON
+
+- 🔭 I’m currently working on this page. 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feriirawan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
