@@ -9,8 +9,7 @@
 * 💻 HTML, CSS, JS, PHP, PHYTON
 * 📱 React and Kotlin Fundamental
 
-Skills: PHP / JS / HTML / CSS / PYHTON
-
+## ADDITIONAL INFORMATION
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Analyst 
 - 📫 How to reach me: feryirawan0305@gmail.com 
