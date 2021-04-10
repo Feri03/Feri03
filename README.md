@@ -3,7 +3,6 @@
 ![Back-End Developer](https://raw.githubusercontent.com/feriirawan0/feriirawan0/main/github.gif)
 
 # Hi there 👋, Feri Irawan
-## Back-End Developer
 
 ## Skills And Experience
 * 💻 HTML, CSS, JS, PHP, PHYTON
@@ -20,7 +19,6 @@
 ## Examples Of Work
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OUe97gxeZjA" target="_blank"><img src="http://img.youtube.com/vi/OUe97gxeZjA/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lHwezhPjfB4&t=1s" target="_blank"><img src="http://img.youtube.com/vi/lHwezhPjfB4&t=1s/01.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
