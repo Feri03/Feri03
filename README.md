@@ -5,7 +5,7 @@
 # Hi there 👋, Feri Irawan
 
 ## Skills And Experience
-* 💻 HTML, CSS, JS, PHP, PHYTON
+* 💻 FRONTEND and BACKEND
 * 📱 React and Kotlin Fundamental
 
 
