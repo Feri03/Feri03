@@ -1,4 +1,5 @@
 <!--ini dibuat dengan https://arturssmirnovs.github.io/github-profile-readme-generator/-->
+<img align="right" src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
 
 ![Back-End Developer](https://raw.githubusercontent.com/feriirawan0/feriirawan0/main/github.gif)
 
