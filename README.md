@@ -1,7 +1,7 @@
 <!--ini dibuat dengan https://arturssmirnovs.github.io/github-profile-readme-generator/-->
 <img align="right" src="https://komarev.com/ghpvc/?username=feriirawan0" alt="feriirawan0" />
 
-![Profile views](https://gpvc.arturio.dev/Feri03)
+![Profile views](https://gpvc.arturio.dev/feriirawan0)
 
 ![Back-End Developer](https://raw.githubusercontent.com/feriirawan0/feriirawan0/main/github.gif)
 
