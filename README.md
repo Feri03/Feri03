@@ -9,11 +9,19 @@
 * 💻 FRONTEND and BACKEND
 * 📱 React and Kotlin Fundamental
 
+<p align="center">
+<a href="https://dev.to/dyazincahya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dyazincahya" height="20" width="20" /></a>
+<a href="https://twitter.com/cahyadyazin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cahyadyazin" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/cahyadyazin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cahyadyazin" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/dyazincahya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dyazincahya" height="20" width="20" /></a>
+<a href="https://fb.com/cahya.dyazin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cahya.dyazin" height="20" width="20" /></a>
+<a href="https://instagram.com/vierundsieben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vierundsieben" height="20" width="20" /></a>
+<a href="https://www.behance.net/vierundsieben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vierundsieben" height="20" width="20" /></a>
+<a href="https://medium.com/k4ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="k4ng" height="20" width="20" /></a>
+</p>
 
 
 ## Additional Information
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Data Analyst 
 - 📫 How to reach me: feryirawan0305@gmail.com 
 
 
