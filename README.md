@@ -10,7 +10,7 @@
 ## Skills And Experience
 
 * ⚙️ Stack: ``Javascript``, ``php``, ``database``
-* 💻 FRONTEND and BACKEND
+* 💻 Fundamental Frontend and Backend
 * 📱 React and Kotlin Fundamental
 
 
